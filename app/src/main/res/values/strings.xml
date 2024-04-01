@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ChallengeDua</string>
+    <string name="titleText">Tip Time</string>
+    <string name="editText">Nominal</string>
+    <string name="textField">Cost of Service</string>
+    <string name="label_1">Amazing 20%</string>
+    <string name="label_2">Good 18%</string>
+    <string name="label_3">Ok 15%</string>
+    <string name="switchBahasa">Change to Bahasa</string>
+    <string name="button">Calculate</string>
+</resources>

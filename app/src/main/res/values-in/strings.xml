@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChallengeDua</string>
+    <string name="titleText">Tip Time</string>
+    <string name="editText">Nominal</string>
+    <string name="textField">Biaya Layanan</string>
+    <string name="label_1">Luar biasa 20%</string>
+    <string name="label_2">Bagus 18%</string>
+    <string name="label_3">Ok 15%</string>
+    <string name="switchBahasa">Ubah ke Bahasa Ingris</string>
+    <string name="button">Menghitung</string>
+
+</resources>

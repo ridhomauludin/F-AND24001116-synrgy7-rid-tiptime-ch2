@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="button">
+        <item name="backgroundTint">@color/purple</item>
+        <item name="android:text">@string/button</item>
+    </style>
+
+    <style name="titleText">
+        <item name="fontFamily">@font/Handineat</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:background">@color/green</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:padding">10dp</item>
+    </style>
+
+</resources>
